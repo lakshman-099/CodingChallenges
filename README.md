@@ -8,5 +8,5 @@ The main purpose of this repository is to demonstrate and share solutions to cod
 ## Folder Structure
 Each coding problem has its own dedicated folder. Inside each problem folder, you'll find the following structure:
 - /problem_name
-    - python_solution.py
-    - golang_solution.go
+    - problem_name.py
+    - problem_name.go
